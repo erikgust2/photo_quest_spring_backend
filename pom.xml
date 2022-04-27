@@ -89,7 +89,7 @@
         <repository>
             <id>internal.repo</id>
             <name>Internal repo</name>
-            <url>git@gitea.dsv.su.se/[auser]/[arepo].git</url>
+            <url>https://github.com/erikgust2/photo_quest_spring_backend</url>
         </repository>
     </distributionManagement>
 
